@@ -46,9 +46,11 @@ By addressing these questions, we seek to gain insights into the distribution of
 Our analysis includes interactive visualizations that help convey insights more effectively. We encourage you to explore the visual representations of the data to gain a deeper understanding of homelessness dynamics.
 
 ![image (11)](https://github.com/TacoBadger/project-8-Homeless-Data/assets/11693256/0b563287-32d9-4294-87c1-4c0178cb47c5)
+
 **Homeless by State**
 
 ![image (13)](https://github.com/TacoBadger/project-8-Homeless-Data/assets/11693256/6fb8ae3a-c73a-4e48-974f-e022266a468b)
+
 **Homeless,Sheltered Homeless by Count**
 
 
