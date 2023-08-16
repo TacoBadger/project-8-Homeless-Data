@@ -1,7 +1,7 @@
 # Project-8-Homeless-Data
 
 # Introduction to Homelessness Dataset in the USA
-![Homelessness](path_to_your_image.png) <!-- Replace with an image related to homelessness -->
+![Homelessness] (path_to_your_image.png) <!-- Replace with an image related to homelessness -->
 Welcome to the introduction of the Homelessness Dataset in USA. This overview provides insights into the dataset that captures the intricate and multifaceted issue of homelessness across the United States. Through data analysis and visualization, we strive to illuminate the challenges faced by individuals experiencing homelessness, examine contributing factors, and encourage informed discussions and solutions.
 ## Table of Contents
 - [Understanding Homelessness](#understanding-homelessness)
