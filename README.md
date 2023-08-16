@@ -1,7 +1,7 @@
 # Project-8-Homeless-Data
 
 # Introduction to Homelessness Dataset in the USA
-![Homelessness] ![png-transparent-homelessness-homeless-shelter-home-cartoon-artwork-shelter-removebg-preview](https://github.com/TacoBadger/project-8-Homeless-Data/assets/11693256/73871d0a-f568-4093-85ad-5ea34dbdea29)
+[Homelessness] ![png-transparent-homelessness-homeless-shelter-home-cartoon-artwork-shelter-removebg-preview](https://github.com/TacoBadger/project-8-Homeless-Data/assets/11693256/73871d0a-f568-4093-85ad-5ea34dbdea29)
 <!-- Replace with an image related to homelessness -->
 Welcome to the introduction of the Homelessness Dataset in the USA. This overview provides insights into the dataset that captures the intricate and multifaceted issue of homelessness across the United States. Through data analysis and visualization, we strive to illuminate the challenges faced by individuals experiencing homelessness, examine contributing factors, and encourage informed discussions and solutions.
 ## Table of Contents
