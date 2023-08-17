@@ -6,7 +6,7 @@
 Welcome to our Homelessness Dataset Introduction! This overview helps you explore the complex issue of homelessness in the United States. Through data analysis and visual aids, we aim to shed light on the challenges faced by homeless individuals, their stories, and the factors contributing to this issue.
 
 ## Homelessness
-Welcome to our Homelessness Dataset Introduction! We're here to help you learn about homelessness in the United States. We'll use data and pictures to show the challenges faced by people without stable homes and how we can make things better.
+We're here to help you learn about homelessness in the United States. We'll use data and pictures to show the challenges faced by people without stable homes and how we can make things better.
 
 
 # Table of Contents
