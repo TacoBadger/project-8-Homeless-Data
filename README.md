@@ -70,14 +70,18 @@ In summary, the dataset reveals a multifaceted picture of homelessness, ranging 
 
 ![image (13)](https://github.com/TacoBadger/project-8-Homeless-Data/assets/11693256/2ed32d69-ff37-4a3d-95c3-8c0ba88133cb)
 
-
 **Different Homeless Types**
+The dataset provided allows us to explore different categories of homelessness, ordered from highest to lowest based on the counts for each category:
+**Sheltered Homeless,
+Unsheltered Homeless,
+Chronically Homeless,
+Homeless Veterans**
 
 ![image (14)](https://github.com/TacoBadger/project-8-Homeless-Data/assets/11693256/28fbdc08-7031-4276-aae8-a7dd77666d6f)
 
 
 **Different Homeless Types**
-
+Based on the analysis of the provided data and corresponding visualizations, a clear trend emerges, indicating that homelessness has demonstrated a consistent growth pattern over the years. The data reveals a progressive increase in homeless counts across various categories, including sheltered and unsheltered homeless individuals, chronically homeless individuals, and homeless veterans. This consistent upward trajectory suggests a persistent challenge that communities have faced in addressing homelessness over the given timeframe. The visual representations, such as graphs and charts, visually reinforce this trend by showcasing a gradual rise in the number of homeless individuals from year to year.
 
 
 
