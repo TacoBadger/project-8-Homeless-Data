@@ -71,7 +71,7 @@ We've turned this data into pictures that tell stories. Here are a couple:
 **Sum of Homeless per Year**
 
 ![image (16)](https://github.com/TacoBadger/project-8-Homeless-Data/assets/11693256/2a33ae7f-f148-44aa-a2d0-0cbaa76849fa)
-
+the data suggests that homelessness is influenced by a complex interplay of factors, including demographics, economic conditions, available support services, housing affordability, and local policies. By delving into these data-driven insights, we can develop targeted strategies to address homelessness and provide assistance to those in need in various places across the USA.
 
 **Total Homeless by State**
 
