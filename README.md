@@ -51,10 +51,17 @@ We've turned this data into pictures that tell stories. Here are a couple:
 
 Among the states included in the dataset, California (CA) stands out as the most significantly affected by homelessness. The data suggests that California consistently experiences higher numbers of homeless individuals across various measures, such as "Chronically Homeless Individuals," "Homeless Individuals," and "Homeless People in Families." Following California, Florida (FL) emerges as the second most affected state, with notable numbers of homeless individuals as well. New Jersey (NJ), New York (NY), and Michigan (MI) also exhibit considerable homelessness, albeit to a slightly lesser extent compared to California and Florida. It's important to emphasize that these conclusions are based on the provided dataset's from 2007 to 2016
 
+
+
 ![image (13)](https://github.com/TacoBadger/project-8-Homeless-Data/assets/11693256/6fb8ae3a-c73a-4e48-974f-e022266a468b)
 
-
 **Homeless,Sheltered Homeless by Count**
+
+it becomes evident that the "sheltered homeless" category has the highest count.
+The "unsheltered homeless" category follows, pointing to individuals who lack proper shelter and are forced to endure homelessness on the streets or in inadequate conditions.
+The dataset also sheds light on the "chronically homeless" subgroup, individuals experiencing persistent homelessness often coupled with severe health issues.
+the count of "homeless veterans" draws attention to the challenges faced by those who have served in the military and are now grappling with homelessness.
+In summary, the dataset reveals a multifaceted picture of homelessness, ranging from those who have accessed shelter and support services to those who remain unsheltered and face more chronic and complex challenges.
 
 ![image (13)](https://github.com/TacoBadger/project-8-Homeless-Data/assets/11693256/2ed32d69-ff37-4a3d-95c3-8c0ba88133cb)
 
