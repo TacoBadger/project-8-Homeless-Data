@@ -47,8 +47,9 @@ We've turned this data into pictures that tell stories. Here are a couple:
 
 ![image (11)](https://github.com/TacoBadger/project-8-Homeless-Data/assets/11693256/0b563287-32d9-4294-87c1-4c0178cb47c5)
 
-
 **Homeless by State**
+
+Among the states included in the dataset, California (CA) stands out as the most significantly affected by homelessness. The data suggests that California consistently experiences higher numbers of homeless individuals across various measures, such as "Chronically Homeless Individuals," "Homeless Individuals," and "Homeless People in Families." Following California, Florida (FL) emerges as the second most affected state, with notable numbers of homeless individuals as well. New Jersey (NJ), New York (NY), and Michigan (MI) also exhibit considerable homelessness, albeit to a slightly lesser extent compared to California and Florida. It's important to emphasize that these conclusions are based on the provided dataset's from 2007 to 2016
 
 ![image (13)](https://github.com/TacoBadger/project-8-Homeless-Data/assets/11693256/6fb8ae3a-c73a-4e48-974f-e022266a468b)
 
@@ -65,16 +66,25 @@ We've turned this data into pictures that tell stories. Here are a couple:
 
 **Different Homeless Types**
 
+
+
+
 ![image (15)](https://github.com/TacoBadger/project-8-Homeless-Data/assets/11693256/2e09423f-6a64-4a98-b390-d20d6e1e7e1b)
 
 
 **Sum of Homeless per Year**
 
+Examining the provided dataset spanning from 2007 to 2016., it becomes evident that there have been fluctuations in the prevalence of long-term homelessness over time across different states and Continuums of Care (CoCs). By focusing on the counts of chronically homeless individuals – those experiencing homelessness for an extended period – we can discern some patterns
+
+
+
 ![image (16)](https://github.com/TacoBadger/project-8-Homeless-Data/assets/11693256/2a33ae7f-f148-44aa-a2d0-0cbaa76849fa)
+
+**Total Homeless by State**
 
 the data suggests that homelessness is influenced by a complex interplay of factors, including demographics, economic conditions, available support services, housing affordability, and local policies. By delving into these data-driven insights, we can develop targeted strategies to address homelessness and provide assistance to those in need in various places across the USA.
 
-**Total Homeless by State**
+
 
 ## What We Discovered
 Our research found some cool things:
