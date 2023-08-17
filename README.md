@@ -47,23 +47,32 @@ We've turned this data into pictures that tell stories. Here are a couple:
 
 ![image (11)](https://github.com/TacoBadger/project-8-Homeless-Data/assets/11693256/0b563287-32d9-4294-87c1-4c0178cb47c5)
 
+
 **Homeless by State**
 
 ![image (13)](https://github.com/TacoBadger/project-8-Homeless-Data/assets/11693256/6fb8ae3a-c73a-4e48-974f-e022266a468b)
+
 
 **Homeless,Sheltered Homeless by Count**
 
 ![image (13)](https://github.com/TacoBadger/project-8-Homeless-Data/assets/11693256/2ed32d69-ff37-4a3d-95c3-8c0ba88133cb)
 
+
 **Different Homeless Types**
 
 ![image (14)](https://github.com/TacoBadger/project-8-Homeless-Data/assets/11693256/28fbdc08-7031-4276-aae8-a7dd77666d6f)
+
+
 **Different Homeless Types**
 
 ![image (15)](https://github.com/TacoBadger/project-8-Homeless-Data/assets/11693256/2e09423f-6a64-4a98-b390-d20d6e1e7e1b)
+
+
 **Sum of Homeless per Year**
 
 ![image (16)](https://github.com/TacoBadger/project-8-Homeless-Data/assets/11693256/2a33ae7f-f148-44aa-a2d0-0cbaa76849fa)
+
+
 **Total Homeless by State**
 
 ## What We Discovered
