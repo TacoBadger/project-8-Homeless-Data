@@ -3,47 +3,47 @@
 # Introduction to Homelessness Dataset in the USA
 ![png-transparent-homelessness-homeless-shelter-home-cartoon-artwork-shelter-removebg-preview](https://github.com/TacoBadger/project-8-Homeless-Data/assets/11693256/3e3a7c37-afc2-4b78-a15c-db81d481bbcc)
  <!-- Replace with an image related to homelessness -->
-Welcome to the introduction of the Homelessness Dataset in USA. This overview provides insights into the dataset that captures the intricate and multifaceted issue of homelessness across the United States. Through data analysis and visualization, we strive to illuminate the challenges faced by individuals experiencing homelessness, examine contributing factors, and encourage informed discussions and solutions.
-## Table of Contents
-- [Understanding Homelessness](#understanding-homelessness)
-- [Scope of the Dataset](#scope-of-the-dataset)
-- [Data Sources](#data-sources)
-- [Key Variables](#key-variables)
-- [Importance of Analysis](#importance-of-analysis)
-- [ASK](#ask)
+Welcome to our Homelessness Dataset Introduction! This overview helps you explore the complex issue of homelessness in the United States. Through data analysis and visual aids, we aim to shed light on the challenges faced by homeless individuals, their stories, and the factors contributing to this issue.
+
+## Homelessness
+Welcome to our Homelessness Dataset Introduction! We're here to help you learn about homelessness in the United States. We'll use data and pictures to show the challenges faced by people without stable homes and how we can make things better.
+
+
+# Table of Contents
+- [Homelessness](#homelessness)
+- [What is Homelessness?](#what-is-homelessness)
+- [What the Data Tells Us](#what-the-data-tells-us)
+- [Why This Matters](#why-this-matters)
+- [What We Want to Learn](#what-we-want-to-learn)
 - [Visual](#visual)
-- [Key Findings](#key-findings)
-## Understanding Homelessness
-Homelessness is a complex and pervasive issue affecting millions of people globally. Within the United States, homelessness manifests in various forms, from individuals living on the streets to families residing in temporary shelters. It is a challenge that transcends geography, demographics, and socioeconomic backgrounds, making it a critical focus for both research and action.
-## Scope of the Dataset
-Our Homelessness Dataset in the USA aims to provide a comprehensive view of homelessness dynamics across different states, cities, and demographics. The dataset encompasses a wide range of variables, including information on shelter usage, unsheltered populations, causes of homelessness, duration of homelessness, and more. By capturing these diverse facets, we can uncover patterns and insights that contribute to a deeper understanding of this social issue.
-## Data Sources
-The dataset is compiled from reputable sources, including government agencies, non-profit organizations, and research institutions. These sources collect and disseminate data through surveys, counts, and collaborations with service providers, ensuring the dataset's accuracy and relevance.
-## Key Variables
-- **Sheltered and Unsheltered Counts:** The number of individuals residing in emergency shelters, transitional housing, or unsheltered locations.
-- **Demographic Information:** year, state, COC (Continuum of Care) number, COC (Continuum of Care) name, measures, count of homeless individuals.
-- **Chronic Homelessness:** Duration and frequency of homelessness for individuals experiencing chronic homelessness.
-- **Causes of Homelessness:** Contributing factors such as poverty, unemployment, mental health, and substance abuse.
-- **Geographic Distribution:** Insights into homelessness prevalence across states, cities, and regions.
-## Importance of Analysis
-Analyzing the Homelessness Dataset in the USA goes beyond numbers and statistics; it delves into the stories of individuals facing adversity. Data-driven analysis enables us to:
-- **Identify Trends:** Uncover patterns and trends in homelessness data, helping us understand variations over time and geography.
-- **Inform Policy:** Provide evidence-based insights to guide policy decisions and resource allocation.
-- **Advocate for Change:** Empower advocacy efforts by highlighting the urgent need for comprehensive homelessness solutions.
-- **Raise Awareness:** Engage the public through data-driven narratives that foster empathy and understanding.
-## ASK
-In this project, we aim to answer the following key questions:
-- What are the primary causes of homelessness in different regions of the USA?
-- How has the prevalence of chronic homelessness changed over the past decade?
-- What demographic groups are disproportionately affected by homelessness?
-- How many homeless individuals are present in each U.S. state?
-- What is the growth rate of homelessness from 2007 to 2016 across different states?
-- What is the total number of homeless individuals in the entire United States?
+- [What We Discovered](#what-we-discovered)
+
+## What is Homelessness?
+Homelessness is when people don't have a safe place to live. Some sleep on the streets, some stay in shelters, and some don't have a home at all.
+
+## What the Data Tells Us
+Our dataset is like a big puzzle showing homelessness from 2007 to 2016. We can see things like how many people don't have homes, reasons for homelessness, and where it happens the most.
+
+## Why This Matters
+Understanding homelessness helps us make good choices. By looking at the data, we can:
+- See Changes: Find out how homelessness is different over time.
+- Make Rules: Use facts to create better laws and help people.
+- Tell Stories: Show everyone how important this issue is and inspire them to help.
+- Bring Hope: Share stories of people who need help to make a difference.
+
+## What We Want to Learn
+We're digging into the data to answer questions like:
+- What causes homelessness in different places?
+- How has long-term homelessness changed?
+- Who's most affected by this problem?
+- How many homeless people are in each state?
+- Did homelessness go up from 2007 to 2016?
+- How many people don't have homes in the whole US?
 
 By addressing these questions, we seek to gain insights into the distribution of homelessness across states, understand how the homeless population has changed over the specified time period, and ascertain the overall magnitude of homelessness in the country.
 
 ## Visual
-Our analysis includes interactive visualizations that help convey insights more effectively. We encourage you to explore the visual representations of the data to gain a deeper understanding of homelessness dynamics.
+We've turned this data into pictures that tell stories. Here are a couple:
 
 ![image (11)](https://github.com/TacoBadger/project-8-Homeless-Data/assets/11693256/0b563287-32d9-4294-87c1-4c0178cb47c5)
 
@@ -53,11 +53,24 @@ Our analysis includes interactive visualizations that help convey insights more 
 
 **Homeless,Sheltered Homeless by Count**
 
+![image (13)](https://github.com/TacoBadger/project-8-Homeless-Data/assets/11693256/2ed32d69-ff37-4a3d-95c3-8c0ba88133cb)
 
-## Key Findings
-After thorough analysis, some key findings from our Homelessness Dataset in the USA include:
-1. **Urban Concentration:** Homelessness is more prevalent in urban areas, with a concentration in major cities.
-2. **Demographic Disparities:** Certain demographic groups, such as veterans and youth, experience higher rates of homelessness.
-3. **Cyclical Patterns:** There are seasonal fluctuations in homelessness rates, often influenced by weather conditions and economic factors.
-4. **Risk Factors:** Unemployment, lack of affordable housing, and mental health challenges are significant risk factors contributing to homelessness.
-As we embark on the journey of analyzing the Homelessness Dataset in the USA, we aim to contribute to a more compassionate and informed discourse about homelessness. By leveraging the power of data, we hope to drive positive change and address the systemic challenges faced by individuals and families across the nation.
+**Different Homeless Types**
+
+![image (14)](https://github.com/TacoBadger/project-8-Homeless-Data/assets/11693256/28fbdc08-7031-4276-aae8-a7dd77666d6f)
+**Different Homeless Types**
+
+![image (15)](https://github.com/TacoBadger/project-8-Homeless-Data/assets/11693256/2e09423f-6a64-4a98-b390-d20d6e1e7e1b)
+**Sum of Homeless per Year**
+
+![image (16)](https://github.com/TacoBadger/project-8-Homeless-Data/assets/11693256/2a33ae7f-f148-44aa-a2d0-0cbaa76849fa)
+**Total Homeless by State**
+
+## What We Discovered
+Our research found some cool things:
+- Big cities have more homelessness.
+- Some groups, like veterans and young people, struggle more.
+- Homelessness changes with seasons and important events.
+- No jobs, no homes, and health problems lead to homelessness.
+
+We hope that by sharing this information, we can help everyone understand and care about homelessness in the USA. Let's work together to make things better for people who don't have a place to call home.
